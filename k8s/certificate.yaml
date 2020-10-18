@@ -7,7 +7,7 @@ spec:
   issuerRef:
     name: letsencrypt-prod
     kind: ClusterIssuer
-  commonName: k8s-multi.com
+  commonName: theboston3dproject.com
   dnsNames:
     - theboston3dproject.com
     - www.theboston3dproject.com
